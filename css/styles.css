@@ -627,7 +627,6 @@ border-radius: 4px;
         width: 330px;
         margin-left: auto;
         margin-right: auto;
-    margin-bottom: 72px;
     
         /* Header 2 */
         font-size: 36px;
@@ -635,6 +634,8 @@ border-radius: 4px;
         line-height: 1.11;
         letter-spacing: 0.72px;
         text-transform: capitalize;
+        margin-bottom: 72px;
+
 }
 
 .costomers-link {
