@@ -291,7 +291,7 @@ margin-bottom: 8px;
 
 .social-list-link:hover,
 .social-list-link:focus {
-    background-color: #404bbf;
+    background-color: #31d0aa;
 }
 
 .social-list-icon{
@@ -622,11 +622,12 @@ border-radius: 4px;
 }
 
 .hhh-faif {
+    color: #2e2f42;
     text-align: center;
         width: 330px;
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 72px;
+    margin-bottom: 72px;
     
         /* Header 2 */
         font-size: 36px;
