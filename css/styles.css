@@ -291,7 +291,7 @@ margin-bottom: 8px;
 
 .social-list-link:hover,
 .social-list-link:focus {
-    background-color: #31d0aa;
+    background-color: #404bbf;
 }
 
 .social-list-icon{
@@ -619,6 +619,21 @@ border-radius: 4px;
 .section-faif {
     padding-top: 120px;
     padding-bottom: 120px;
+}
+
+.hhh-faif {
+    text-align: center;
+        width: 330px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 72px;
+    
+        /* Header 2 */
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.72px;
+        text-transform: capitalize;
 }
 
 .costomers-link {
